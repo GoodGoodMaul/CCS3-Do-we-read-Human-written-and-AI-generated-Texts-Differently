@@ -1,4 +1,4 @@
-# Project README
+# LLM_based Project README
 
 ## Installation
 
@@ -83,6 +83,7 @@ python src/train/lora_eyetracking.py
 * Configuration files control all major experiment settings.
 
 * Scripts are designed to be run independently for text-only and multimodal experiments.
+
 
 
 
