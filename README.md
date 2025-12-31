@@ -7,7 +7,7 @@ It corresponds to **Study 2: A Multimodal Classification Baseline Study**.
 
 `raw_data.zip` contains **all original eye-tracking experiment data** collected in our study.
 
-Please **download and unzip** it before running any data processing or experiments.
+Please **download and unzip** it if you want to use it.
 
 ## Study 2 Tasks
 
