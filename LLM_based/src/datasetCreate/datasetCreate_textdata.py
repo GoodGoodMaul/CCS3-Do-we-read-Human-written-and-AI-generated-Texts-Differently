@@ -1,11 +1,5 @@
 """
 Build a Qwen3-friendly Yes/No dataset that detects whether a passage was AI-generated.
-
-- Reads dataset/raw_data/data.csv (path resolved via configs/base.yaml).
-- User prompt asks if the text is AI-generated (English prompt).
-- Assistant answer is strictly "Yes" or "No" using the `Source` ground truth.
-- Respects the existing train/val/test split from the CSV.
-- Writes datasets to dataset/processed_data (also from configs/base.yaml) and saves the first sample.
 """
 
 import csv
