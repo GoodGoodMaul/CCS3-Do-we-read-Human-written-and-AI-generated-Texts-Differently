@@ -1,4 +1,4 @@
-# CCS3: Do We Read Human-Written and AI-Generated Texts Differently?
+# CCS3: Cognitive Processing and Detection of AI-Generated and Human-Written Text
 
 This repository contains the course project for **Computational Cognitive Science 3 (CCS3)**.  
 It corresponds to **Study 1: Eye-tracking Study on Human and AI Texts** and **Study 2: A Multimodal Classification Baseline Study**.
